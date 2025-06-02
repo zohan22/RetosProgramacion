@@ -1,2 +1,2 @@
 # RetosProgramacion
-Repositorio de retos de programacion por dia 
+Repositorio de retos de logica de programacion 
